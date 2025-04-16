@@ -43,7 +43,7 @@ Organização https://github.com/auto-motion-io
 - Java 17
 - Spring Boot
 - Spring Data JPA
-- Spring Security (se houver autenticação/autorização)
+- Spring Security (JWT)
 - MySQL
 - Supabase (armazenamento de arquivos)
 - JUnit
