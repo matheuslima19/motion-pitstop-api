@@ -1,0 +1,10 @@
+package org.motion.motion_api.domain.dtos.oficina;
+
+import jakarta.validation.constraints.NotBlank;
+import lombok.Data;
+
+@Data
+public class UpdateLogoOficinaDTO {
+    @NotBlank
+    private String url;
+}

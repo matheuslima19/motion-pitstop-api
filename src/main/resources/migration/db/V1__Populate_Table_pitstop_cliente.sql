@@ -1,0 +1,2 @@
+INSERT INTO pitstop_cliente values (null,'leonardobento233@gmail.com','rua','leonardo','11961707443');
+INSERT INTO pitstop_cliente values (null,'matheuslima@gmail.com','alphaville','code','1194812922');
